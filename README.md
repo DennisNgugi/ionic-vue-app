@@ -1,4 +1,4 @@
-# zip-info-pwa
+# Ionic-vue-pwa
 
 ## Project setup
 ```
